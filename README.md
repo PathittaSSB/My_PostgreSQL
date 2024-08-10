@@ -1,2 +1,3 @@
-# MyPostgreSQL
-Create psu note app to learn about PostgreSQL
+<<<<<<< HEAD
+
+# My_PostgreSQL
